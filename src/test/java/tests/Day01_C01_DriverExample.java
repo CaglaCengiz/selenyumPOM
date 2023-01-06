@@ -10,7 +10,8 @@ public class Day01_C01_DriverExample {
   // Verify title contains OrangeHRM.
   // Use Driver Class.
 
-
+    // Başlığın OrangeHRM içerdiğini doğrulayın.
+    // Sürücü Sınıfını kullan.
     @Test
     public void test() {
         Driver.getDriver().get("https://opensource-demo.orangehrmlive.com/");
