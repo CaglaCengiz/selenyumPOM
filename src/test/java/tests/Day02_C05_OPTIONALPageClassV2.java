@@ -23,6 +23,6 @@ public class Day02_C05_OPTIONALPageClassV2 {
 
         //homePage.searchFor("modem");
 
-        homePage.navigateToOrders();
+        homePage.navigateToOrders();//siparişlere git
     }
 }
